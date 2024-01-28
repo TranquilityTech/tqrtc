@@ -1,0 +1,22 @@
+{
+    "name": "tqrtc",
+    "version": "0.0.6",
+    "description": "TQRTC provides a complete, configurable, and P2P API built on WebRTC, supporting both data channels and media streams.",
+    "author": {
+        "name": "Ta-Yi Cheng",
+        "email": "admin@tranquility.tech"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "ws": "3.3.2"
+    },
+    "deprecated": false,
+    "homepage": "",
+    "keywords": ["WebRTC", "Websocket", "tranquility"],
+    "license": "MIT",
+    "main": "tqrtc.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/TranquilityTech/tqrtc.git"
+    }
+}
