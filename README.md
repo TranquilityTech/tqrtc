@@ -2,7 +2,7 @@
 
 A framework for building WebRTC middleware lib.
 
-Tranquility has successfully released our project as open-source and it has been downloaded over **1K times** on [NPM](https://www.npmjs.com/package/tqrtc)!
+Tranquility has released our project as open-source and it has been downloaded over **1K times** on [NPM](https://www.npmjs.com/package/tqrtc)!
 
 
 ## Installation
